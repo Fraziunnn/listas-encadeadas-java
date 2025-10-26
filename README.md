@@ -121,6 +121,8 @@ Estruturas implementadas manualmente com nós (Node) e referências (next, prev)
 
 Para o vídeo explicativo, recomenda-se mostrar cada projeto em execução no Eclipse, destacando as diferenças entre as listas.
 
+Link do vídeo: https://youtu.be/nE7ruCVUHwc
+
 Autores
 
 [Guilherme Frazão Feitoza] – Engenharia de Software – Centro Universitário Santo Agostinho
